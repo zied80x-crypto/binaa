@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Binaa" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0F3D5E</item>
+        <item name="android:windowBackground">#F4F6F9</item>
+    </style>
+    <color name="ic_bg">#0F3D5E</color>
+</resources>

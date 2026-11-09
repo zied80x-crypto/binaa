@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple original mark: a house outline over a brick row, in amber. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#F5A623"
+        android:pathData="M54,28 L80,50 L74,50 L74,74 L34,74 L34,50 L28,50 Z" />
+    <path android:fillColor="#0F3D5E"
+        android:pathData="M48,58 L60,58 L60,74 L48,74 Z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M30,78 L52,78 L52,84 L30,84 Z M56,78 L78,78 L78,84 L56,84 Z" />
+</vector>
